@@ -1,0 +1,2 @@
+# logany
+Log anything.
