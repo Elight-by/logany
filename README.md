@@ -13,5 +13,5 @@ logany.save_log("log1", "Example log")
               |                   |  
               |                   |  
               ↓                   ↓  
-           Time     Random id (Doesn't repeat)
+            Time       Random id (Doesn't repeat)
 ```
